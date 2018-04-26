@@ -1,0 +1,27 @@
+{
+  "name": "@goldix.org/validator",
+  "version": "0.0.1",
+  "description": "Wrapper for validate.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-validator.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "validation",
+    "validate.js"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-validator/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-validator#readme",
+  "dependencies": {
+    "validate.js": "^0.12.0"
+  }
+}
